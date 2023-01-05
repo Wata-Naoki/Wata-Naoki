@@ -1,2 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wata-Naoki&theme=vue-dark&show_icons=true&layout=compact&langs_count=15)](https://github.com/Wata-Naoki/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wata-Naoki)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wata-Naoki&theme=vue-white&show_icons=true&layout=compact&langs_count=15" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Wata-Naoki&show_icons=ture" />
+</p>
+
